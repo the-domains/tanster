@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tanster]]></title>
+        <description><![CDATA[tanster]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 13:29:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lunch with the girls]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e04aef59-8659-4052-94c5-aaebfe902eef.jpg">]]></description>
+            <link>undefinedlunch-with-the-girls/index.html</link>
+            <guid isPermaLink="false">f87cc3b6-4d8b-423e-a21a-902ff4561f87</guid>
+            <pubDate>Sat, 21 May 2016 13:29:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
